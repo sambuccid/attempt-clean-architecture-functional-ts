@@ -1,25 +1,25 @@
 .main {
 }
 
-.add{
+.newForm{
+    
 }
-.add a{
-    text-decoration: none;
-    color: initial;
+
+.addButton{
+    margin-top: 2rem;
+}
+.addButton button{
     border-radius: 5px;
+    border: none;
     background-color: #385dff;
     display: block;
     margin: 0px;
     padding: 0px;
-    width: 20rem;
+    width: 5rem;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
-.add a:hover{
+.addButton button:hover{
     background-color: #4d88ff;
-}
-
-.allTasks{
-
 }
